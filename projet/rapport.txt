@@ -1,0 +1,31 @@
+Rapport Final — Analyse des Prix des Logements en Californie
+
+Objectif
+
+Analyser les facteurs qui influencent le prix des logements en Californie à partir d’un jeu de données, en utilisant une application Streamlit.
+
+Résultats
+
+Les facteurs qui influencent le plus les prix sont :
+
+Le revenu médian des habitants : plus il est élevé, plus les prix sont hauts.
+
+La localisation géographique : les maisons proches de l’océan et au sud-ouest coûtent plus cher.
+
+Le nombre total de pièces : influence légère, les grandes maisons sont un peu plus chères.
+
+L’âge des maisons : influence faible sur le prix.
+
+Recommandations
+
+Cibler les régions à revenu médian élevé.
+
+Mettre en avant les maisons situées près de l’océan.
+
+Valoriser les maisons avec un grand nombre de pièces.
+
+Ne pas trop se baser sur l’âge des maisons pour estimer le prix.
+
+Conclusion
+
+Le revenu médian et la localisation sont les deux facteurs principaux à considérer pour bien estimer et vendre un logement en Californie.
